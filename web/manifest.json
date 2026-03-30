@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
     "name": "mad_app",
     "short_name": "mad_app",
+=======
+    "name": "signup_app",
+    "short_name": "signup_app",
+>>>>>>> cd91b40 (Added in-class mobile dev files)
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

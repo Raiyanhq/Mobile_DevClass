@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+<<<<<<< HEAD
 
 void main() {
   runApp(MyApp());
@@ -354,6 +355,27 @@ class __TabsNonScrollableDemoState extends State<_TabsNonScrollableDemo>
           ),
         ),
       ),
+=======
+import 'screens/welcome_screen.dart';
+
+void main() {
+  runApp(const SignupAdventureApp());
+}
+
+class SignupAdventureApp extends StatelessWidget {
+  const SignupAdventureApp({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      title: 'Signup Adventure',
+      debugShowCheckedModeBanner: false,
+      theme: ThemeData(
+        colorScheme: ColorScheme.fromSeed(seedColor: Colors.purple),
+        useMaterial3: true,
+      ),
+      home: const WelcomeScreen(),
+>>>>>>> cd91b40 (Added in-class mobile dev files)
     );
   }
 }
