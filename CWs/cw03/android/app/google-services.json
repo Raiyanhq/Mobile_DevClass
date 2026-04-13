@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "357307456100",
+    "project_id": "raiyan-cw03",
+    "storage_bucket": "raiyan-cw03.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357307456100:android:625faa70d061ded0c25d71",
+        "android_client_info": {
+          "package_name": "com.example.cw03"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWxEHUtLOLnA6MHEU2xAAoW9Q7Kxw0hbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
